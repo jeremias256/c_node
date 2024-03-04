@@ -131,3 +131,5 @@ dist
 
 
 /S4/tablas/*.txt
+/S4/node_modules
+/S5/node_modules
